@@ -3,7 +3,7 @@
 #include "ViewProjection.h"
 #include "WorldTransform.h"
 
-class Ground {
+class Ground{
 public:
 	void Initialize(Model* model);
 
